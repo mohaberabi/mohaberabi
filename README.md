@@ -1,6 +1,6 @@
 
- <Nothing>
-
+```kotlin
+class Mohab : Nothing
 
 
 
