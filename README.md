@@ -2,7 +2,7 @@
 
 [LinkedIn](https://www.linkedin.com/in/mohab-erabi-75714b31a/) 
 
-🌱 I’m working on Kotlin Multiplatform (KMP), Jetpack Compose, and Flutter .
+🌱 I’m working on  Android , Jetpack Compose, Kotlin Multiplatform (KMP), and Flutter .
 
 💬 Ask me about Android development, Kotlin, KMP, Flutter, Jetpack Compose.
 
